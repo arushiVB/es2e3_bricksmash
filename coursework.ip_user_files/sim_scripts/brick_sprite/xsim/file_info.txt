@@ -1,0 +1,2 @@
+brick_sprite.v,verilog,xil_defaultlib,../../../../coursework.gen/sources_1/ip/brick_sprite/sim/brick_sprite.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

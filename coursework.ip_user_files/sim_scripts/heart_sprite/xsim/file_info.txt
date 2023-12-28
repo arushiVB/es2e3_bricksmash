@@ -1,0 +1,2 @@
+heart_sprite.v,verilog,xil_defaultlib,../../../../coursework.gen/sources_1/ip/heart_sprite/sim/heart_sprite.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v

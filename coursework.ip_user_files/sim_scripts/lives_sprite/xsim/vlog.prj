@@ -1,0 +1,7 @@
+verilog xil_defaultlib  \
+"../../../../coursework.gen/sources_1/ip/lives_sprite/sim/lives_sprite.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

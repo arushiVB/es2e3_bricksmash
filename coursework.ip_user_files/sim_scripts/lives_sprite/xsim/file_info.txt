@@ -1,0 +1,2 @@
+lives_sprite.v,verilog,xil_defaultlib,../../../../coursework.gen/sources_1/ip/lives_sprite/sim/lives_sprite.v,
+glbl.v,Verilog,xil_defaultlib,glbl.v
